@@ -1,5 +1,5 @@
 # Readme Generator App 
- The app allows user to create a README.md file for a repository by using a command-line “node index.js” in a terminal. There is a list of questions such as project title, description, installation instruction, usage, contributors, and contact. 
+ The app allows users to create a README.md file for a repository by using the command-line “node index.js” in a terminal. There is a list of questions such as project title, description, installation instruction, usage, contributors, and contact. 
  ## Installation instruction 
  Clone repository into local machine and install npm. 
  ## Application usage 
