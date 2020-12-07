@@ -1,2 +1,15 @@
-# Readme-Generator-for-Repository
-Readme Generator of Repository with Node JS
+#  
+  
+ ## Installation instruction 
+  
+ ## Application usage 
+ 
+ ## Constribution 
+ 
+ ## Test instruction 
+ 
+ ## license 
+ Apache
+ ## Contact
+ GitHub username:  
+ Email: 
