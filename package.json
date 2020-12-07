@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Readme Generator of Repository with Node JS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rattanakleng/Readme-Generator-for-Repository.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rattanakleng/Readme-Generator-for-Repository/issues"
+  },
+  "homepage": "https://github.com/rattanakleng/Readme-Generator-for-Repository#readme"
 }
